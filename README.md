@@ -76,10 +76,10 @@ This project has a lot of things to HIGHLIGHT:
 
 ### Built With
 
-* [![iOS][iOS]][iOS-url]
-* [![Xcode][Xcode]][Xcode-url]
-* [![Swift][Swift]][Swift-url]
-* [![Firebase][Firebase]][Firebase-url]
+* [![iOS][iOS]][iOS]
+* [![Xcode][Xcode]][Xcode]
+* [![Swift][Swift]][Swift]
+* [![Firebase][Firebase]][Firebase]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -116,7 +116,7 @@ Project Link: [https://github.com/jhan125/PlantLovers](https://github.com/jhan12
 [license-url]: https://github.com/jhan125/emaily-app/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/jiali-creative/
-[Firebase-url]: https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white
-[Xcode-url]: https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white
-[Swift-url]: https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white
-[iOS-url]: https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white
+[Firebase]: https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white
+[Xcode]: https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white
+[Swift]: https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white
+[iOS]: https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white
